@@ -1,2 +1,1 @@
-# python_test
-python_test
+# 200825_test
